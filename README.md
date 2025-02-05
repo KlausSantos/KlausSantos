@@ -12,8 +12,8 @@
     
 ---
 
-<div align="center">
-  <img src="Aprendendo.jpg" />
+<div style="display: inline_block" align="center" ><br>
+  📚 <img src="Aprendendo.jpg" />
 </div>
 
 <div style="display: inline_block" align="center"><br>
@@ -27,7 +27,7 @@
 ---
 
 <div align="center">
-  <img src="Contatos.jpg" />
+  <div> 📭 </div> <img src="Contatos.jpg" />
 </div>
 
 <div align="center">
@@ -44,6 +44,7 @@
 
 ---
 
-<h2 align="center" style="color: #982B44;">
-  🎯 Sempre em busca de aprendizado e evolução!
-</h2>
+<div align="center">
+  🎯 <img src="Buscando.jpg" />
+</div>
+
