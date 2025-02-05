@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Seja+bem-vindo+ao+meu+GitHub!+%E2%98%95%F0%9F%92%BB%F0%9F%8C%9" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F5E1C0&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+Klaus+Santos!+%E2%98%95%F0%9F%92%BB%F0%9F%8C%9" alt="Typing SVG">
   </a>
 </p>
 
@@ -10,7 +10,7 @@
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=KlausSantos&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
 </div>
 
-<h2 align="center">
+<h2 align="center" color=982B44>
   Estou aprendendo:
 </h2>
 
@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
 </div>
 
-<h2 align="center">
+<h2 align="center" color=982B44>
   Contatos:
 </h2>
 <div align="center">
@@ -31,12 +31,12 @@
   <a href="https://www.linkedin.com/in/klausantos82/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<div align="center">
+<div align="center" color=982B44>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KlausSantos&theme=drakula&hide_border=true" alt="Gráfico de contribuições">
 </div>
 
 ---
 
-<h2 align="center">
+<h2 align="center" color=982B44>
   🎯 Sempre em busca de aprendizado e evolução!
 </h2>
