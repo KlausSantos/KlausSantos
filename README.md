@@ -1,10 +1,10 @@
-<p align="center">
+<div style="display: inline_block" align="center" ><br>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=982B44&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+Klaus+Santos!+%E2%98%95%F0%9F%92%BB%F0%9F%8C%9" alt="Typing SVG">
   </a>
-</p>
+</div>
 
-<div align="center">
+<div style="display: inline_block" align="center" ><br>
   <a href="https://github.com/KlausSantos">
   <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=KlausSantos&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
   <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KlausSantos&layout=compact&langs_count=7&theme=moltack"/>
@@ -26,11 +26,11 @@
 
 <br><br>
 
-<div align="center">
+<div style="display: inline_block" align="center" ><br>
  <img src="Contatos.jpg" />
 </div>
 
-<div align="center">
+<div style="display: inline_block" align="center" ><br>
   <a href="https://instagram.com/klausantus/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contato@klausantos82"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/klausantos82/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
@@ -44,7 +44,7 @@
 
 --- -->
 
-<div align="center">
+<div style="display: inline_block" align="center" ><br>
   <img src="Buscando.jpg" />
 </div>
 
