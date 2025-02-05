@@ -9,6 +9,8 @@
   <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=KlausSantos&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
   <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KlausSantos&layout=compact&langs_count=7&theme=moltack"/>
 </div>
+    
+---
 
 <h2 align="center" style="color: #982B44;">
   Estou aprendendo:
@@ -22,6 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="40" alt="Git"/>
 </div>
 
+---
+
 <div align="center">
   <img src="Contatos.jpg" />
 </div>
@@ -31,6 +35,8 @@
   <a href = "mailto:contato@klausantos82"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/klausantos82/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+---
 
 <div align="center" style="color: #982B44;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KlausSantos&theme=drakula&hide_border=true" alt="Gráfico de contribuições">
