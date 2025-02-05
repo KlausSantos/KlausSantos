@@ -12,9 +12,9 @@
     
 ---
 
-<h2 align="center" style="color: #982B44;">
-  Estou aprendendo:
-</h2>
+<div align="center">
+  <img src="Aprendendo.jpg" />
+</div>
 
 <div style="display: inline_block" align="center"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="40" alt="Java"/>
