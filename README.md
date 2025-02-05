@@ -1,12 +1,8 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+Klaus+Santos!+%E2%98%95%F0%9F%92%BB%F0%9F%8C%9" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Seja+bem-vindo+ao+meu+GitHub!+%E2%98%95%F0%9F%92%BB%F0%9F%8C%9" alt="Typing SVG">
   </a>
 </p>
-
-<h1 align="center" text-color=#982B44>
-  Seja bem-vindo ao meu GitHub!
-</h1>
 
 <div align="center">
   <a href="https://github.com/KlausSantos">
@@ -36,7 +32,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KlausSantos&theme=maroongold&hide_border=true" alt="Gráfico de contribuições">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KlausSantos&theme=drakula&hide_border=true" alt="Gráfico de contribuições">
 </div>
 
 ---
